@@ -1,2 +1,2 @@
-# learn-java
-Hyperskill Java Code &amp; Notes
+# java-projects
+java projects - from simple to advanced
